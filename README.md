@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Обновление GitHub Pages
 
 ## Инструкция по обновлению:
@@ -33,3 +34,7 @@
 
 - Frontend: https://app.nomoneynohoney.online
 - API: https://api.nomoneynohoney.online/health
+=======
+# web-3.0
+Forex Signals Web Application
+>>>>>>> b1cabf59a7789ce79da67007a893a0bbe8284dc3
